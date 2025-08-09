@@ -42,4 +42,4 @@ This project is an interactive Excel dashboard that analyzes public and private 
 - **Concentration in a few regions**. The top 3 regions (CALABARZON, NCR, Central Luzon) account for about 35.3% of total enrollment across all years.
 
 # 📁File
-- Excel Dashboard
+- [Excel Dashboard](ph_school_enrollment.xlsx)
