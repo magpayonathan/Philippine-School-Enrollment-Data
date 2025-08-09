@@ -20,8 +20,8 @@ This project is an interactive Excel dashboard that analyzes public and private 
 - PivotTables and PivotCharts
 - Slicers (for interactive filtering)
 - Data cleaning functions:
-  - TRIM()
-  - PROPER()
+  - 'TRIM()'
+  - 'PROPER()'
 
 # 📝Instructions
 1. Open the workbook and go to the Dashboard worksheet.
