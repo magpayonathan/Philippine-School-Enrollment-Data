@@ -4,6 +4,9 @@
 # 📄About
 This project is an interactive Excel dashboard that analyzes public and private school enrollment across the 17 regions of the Philippines for academic years 2010–2011 to 2020–2021. It focuses on Kindergarten, Elementary (Grades 1–6), and Junior High School (Grades 7–10). The dataset was obtained from [Kaggle](https://www.kaggle.com/datasets/raiblaze/philippines-school-enrollment-data) and originally sourced from the Republic of the Philippines — Department of Education.
 
+![Dashboard Demo](ph_school_enrollment.gif)
+
+
 
 # ✨Key Features
 - Filtering:
