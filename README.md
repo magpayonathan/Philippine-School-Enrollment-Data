@@ -23,5 +23,9 @@ This project is an interactive Excel dashboard that analyzes public and private 
   - TRIM()
   - PROPER()
 
-# Instructions
-Hi
+# 📝Instructions
+1. Open the workbook and go to the Dashboard worksheet.
+2. Use the three slicers to filter by Sector, Region, and Academic Year.
+3. To select multiple items within a slicer, hold CTRL and click the categories you want.
+4. Click the right-top button of a slicer to clear its filters.
+
